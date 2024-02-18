@@ -1,0 +1,4 @@
+
+public interface MessagePad {
+public abstract void message();
+}

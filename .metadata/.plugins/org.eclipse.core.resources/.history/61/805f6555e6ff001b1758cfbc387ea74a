@@ -1,0 +1,11 @@
+public class Practice{
+	void display()
+	{
+		
+		System.out.println("Name: ");
+	}
+	void eije()
+	{
+		System.out.println("HBHB");
+	}
+}

@@ -1,0 +1,10 @@
+public class Student{
+	String name, section;
+	int roll;
+	void setInfo(String name, int roll, String section)
+	{
+		this.name = name;
+		this.roll = roll;
+		this.section = section;
+	}
+}

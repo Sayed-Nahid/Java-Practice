@@ -1,0 +1,14 @@
+
+public class ClassTest {
+
+	public static void main(String[] args) {
+		Student ob = new Student();
+		ob.setName("Karim");
+		ob.setDept("CSE");
+		ob.setId(232);
+		System.out.println("Name: "+ob.getName());
+		System.out.println("Department: "+ob.getDept());
+		System.out.println("ID: "+ob.getId());
+	}
+
+}

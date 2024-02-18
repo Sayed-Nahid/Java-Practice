@@ -1,0 +1,11 @@
+public class MainClass{
+	public static void main(String[] args)
+	{
+		Student.university_name = "Dj";
+		/*Student s1 = new Student();
+		System.out.println(""+s1.name);
+		System.out.println(""+s1.roll);
+		System.out.println(""+s1.section);
+		System.out.println(""+Student.university_name);*/
+	}
+}

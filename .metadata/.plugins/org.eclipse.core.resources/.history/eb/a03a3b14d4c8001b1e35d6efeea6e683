@@ -1,0 +1,10 @@
+package fr;
+
+public class Student {
+	String name, versity_name, section;
+	int roll, year;
+	Student(String n)
+	{
+		name = n;
+	}
+}

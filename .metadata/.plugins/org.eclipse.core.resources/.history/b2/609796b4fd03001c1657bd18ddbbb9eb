@@ -1,0 +1,5 @@
+
+public interface CallPad {
+void call();
+public abstract void message();
+}

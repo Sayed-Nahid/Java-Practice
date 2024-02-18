@@ -1,0 +1,6 @@
+public class Ab extends Practice {
+	void display()
+	{
+		System.out.println("Child class");
+	}
+}

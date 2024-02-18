@@ -1,0 +1,7 @@
+public class MainClass extends Practice {
+ public static void main(String[] args)
+ {
+ TestClass ob = new TestClass();
+ ob.method1();
+ }
+}

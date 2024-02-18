@@ -1,0 +1,6 @@
+public class Student{
+	void method1()
+	{
+		System.out.println("Method 1");
+	}
+}

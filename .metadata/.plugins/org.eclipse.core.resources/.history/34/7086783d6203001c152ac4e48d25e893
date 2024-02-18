@@ -1,0 +1,7 @@
+public class Ab
+{
+	void fuck()
+	{
+		System.out.println("Fuck You");
+	}
+}

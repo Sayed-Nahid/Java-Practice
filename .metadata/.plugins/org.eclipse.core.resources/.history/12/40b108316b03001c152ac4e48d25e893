@@ -1,0 +1,49 @@
+public class Student extends Practice{
+	
+	void fuck()
+	{
+		//fuck();
+		System.out.println("Tumi ki chuda diba sona?");
+	}
+	
+	
+	
+	
+	
+	
+	/*static
+	{
+		System.out.println("Bina Dawat e aisha porchhi.");
+	}
+	String name, section;
+	int roll;
+	static String university_name = "DIU";
+	Student()
+	{
+		System.out.println("No Info");
+	}
+	Student(String name)
+	{
+		this.name = name;
+	}
+	Student(String name, int roll)
+	{
+		this.name = name;
+		this.roll = roll;
+	}
+	Student(String name, int roll, String section)
+	{
+		this.name = name;
+		this.roll = roll;
+		this.section = section;
+	}
+	static void display()
+	{
+		System.out.println("Hello");
+	}
+	static void dj()
+	{
+		display();
+		System.out.println("No Object");
+	}*/
+}

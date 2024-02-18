@@ -1,0 +1,6 @@
+abstract public class Student implements MessagePad{
+	public void method1()
+	{
+		System.out.println("Method 1");
+	}
+}

@@ -1,0 +1,17 @@
+public class Practice{
+   
+	
+	
+	
+    void display() {
+        System.out.println("This is Human class");
+    }
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,16 @@
+
+	public class Student extends Practice {
+
+	    int id;
+
+	    void display() {
+	        System.out.println("Name: " + name);
+	        System.out.println("Age: " + age);
+	        System.out.println("Id: " + id);
+	    }
+
+
+	    }
+
+	
+	

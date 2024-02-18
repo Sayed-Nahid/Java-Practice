@@ -1,0 +1,11 @@
+
+public class B implements Full, M{
+public void call()
+{
+	System.out.println("Calling...");
+}
+public void dial()
+{
+	System.out.println("Dialing...");
+}
+}

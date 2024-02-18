@@ -1,0 +1,9 @@
+
+public class Main implements M, Full{
+
+	public static void main(String[] args) {
+		Main ob = new Main();
+		ob.display();
+	}
+
+}

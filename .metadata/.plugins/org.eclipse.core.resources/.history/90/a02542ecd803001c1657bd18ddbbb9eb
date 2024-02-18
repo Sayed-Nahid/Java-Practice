@@ -1,0 +1,8 @@
+
+public abstract class Call {
+	void dial()
+	{
+		System.out.println("Dialing Number...");
+	}
+	abstract void call();
+}

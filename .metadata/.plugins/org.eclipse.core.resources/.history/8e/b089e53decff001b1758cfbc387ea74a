@@ -1,0 +1,16 @@
+public class Practice {
+String name, varsity_name;
+int id, age;
+void setInformation(String n, String un, int i, int a) {
+id=i;
+age=a;
+name=n;
+varsity_name=un;
+}
+void displayInformation() {
+    System.out.println("Name: "+ name);
+    System.out.println("University Name: "+ varsity_name);
+    System.out.println("Id: "+ id);
+    System.out.println("Age: "+ age);
+}
+}

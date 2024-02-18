@@ -1,0 +1,17 @@
+
+//public class Student {
+
+	
+	
+	public class Student extends Practice {
+
+	    int id;
+
+	    void display2() {
+	        display1();
+	        System.out.println("ID: " + id);
+	    }
+
+	
+	
+}

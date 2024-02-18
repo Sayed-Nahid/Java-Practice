@@ -1,0 +1,8 @@
+public class Ab extends Call
+{
+	int x = 69;
+	void call()
+	{
+		System.out.println("Calling...");
+	}
+}

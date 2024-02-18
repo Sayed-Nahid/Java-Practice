@@ -1,0 +1,19 @@
+
+public class ClassTest {
+
+	public static void main(String[] args) {
+		int x, y, result;
+		x = 1000;
+		y = 0;
+		try {
+			result = x/y;
+			System.out.println("The result is: "+result);
+		}
+		catch(ArithmeticException E)
+		{
+			System.out.println("The type of Exception is: "+E);
+		}
+
+	}
+
+}

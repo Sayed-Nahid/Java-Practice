@@ -1,0 +1,10 @@
+
+public class Main extends A2, B2{
+
+	public static void main(String[] args) {
+		B ob = new B();
+		ob.call();
+		ob.dial();
+	}
+
+}

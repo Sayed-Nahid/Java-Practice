@@ -1,0 +1,22 @@
+package fr;
+
+public class Student {
+	String name, versity_name, section;
+	int roll, year;
+	Student(String n, int r, String s, int y, String v)
+	{
+		name = n;
+		roll = r;
+		section = s;
+		year = y;
+		versity_name = v;
+	}
+	void fucking()
+	{
+		System.out.println("Name: "+name);
+		System.out.println("Roll Number: "+roll);
+		System.out.println("Section: "+section);
+		System.out.println("Year: "+year);
+		System.out.println("University Name: "+versity_name);
+	}
+}

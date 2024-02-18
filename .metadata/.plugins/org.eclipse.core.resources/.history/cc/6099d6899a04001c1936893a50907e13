@@ -1,0 +1,11 @@
+
+public class ClassTest {
+
+	public static void main(String[] args) {
+		Student ob = new Student();
+		ob.setName("Karim");
+		ob.setDept("CSE");
+		ob.setId(232);
+	}
+
+}

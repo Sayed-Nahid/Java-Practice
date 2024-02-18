@@ -1,0 +1,7 @@
+public class Practice extends Ab
+{
+	void fuck()
+	{
+		System.out.println("Chudte chai tumake puja");
+	}
+}

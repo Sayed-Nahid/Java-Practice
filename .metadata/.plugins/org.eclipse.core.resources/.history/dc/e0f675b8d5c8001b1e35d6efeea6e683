@@ -1,0 +1,22 @@
+package fr;
+public class hl
+{
+	public static void main(String[] args)
+	{
+		Student student1 = new Student("Sayed Nahid", 202153849, "PC-B", 2020, "Daffodil International University");
+		Student student2;
+		student2 = new Student("Sayeda Mim", 018, "A", 2021, "Betdoba Govment Primary School");
+		Student st3 = new Student("Helal Khan", 25689, "City-B", 2019, "East West University");
+		Student student4;
+		student4 = new Student("Md. Jasim Uddin", 18163846, "RUEEE18-A", 2018, "Rajshahi University");
+		Student st5;
+		st5 = new Student("Abdur Razzak", 193186960, "Parmanent Campus-C", 2019, "City University");
+		
+		
+		
+		
+		
+		
+		student1.fucking();
+	}
+}

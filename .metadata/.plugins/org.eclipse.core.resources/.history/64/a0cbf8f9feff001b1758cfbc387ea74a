@@ -1,0 +1,13 @@
+class P2
+
+{
+
+    void method1()
+
+    {
+
+        System.out.println("P2");
+
+    }
+
+}

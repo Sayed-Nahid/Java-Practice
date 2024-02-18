@@ -1,0 +1,23 @@
+public class Student{
+	String name, section;
+	int roll;
+	Student()
+	{
+		System.out.println("No Info");
+	}
+	Student(String name)
+	{
+		this.name = name;
+	}
+	Student(String name, int roll)
+	{
+		this.name = name;
+		this.roll = roll;
+	}
+	Student(String name, int roll, String section)
+	{
+		this.name = name;
+		this.roll = roll;
+		this.section = section;
+	}
+}

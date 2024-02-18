@@ -1,0 +1,8 @@
+public class MainClass{
+	public static void main(String[] args)
+	{
+		Student s1 = new Student();
+		s1.setInfo("Sayed Nahid", 202, "PC-B");
+		System.out.println(""+s1.section);
+	}
+}

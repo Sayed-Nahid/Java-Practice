@@ -1,0 +1,9 @@
+
+public class Main extends A2, B2{
+
+	public static void main(String[] args) {
+		Main ob = new Main();
+		ob.display();
+	}
+
+}

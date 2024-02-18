@@ -1,0 +1,13 @@
+
+public class Main implements M, Full{
+
+	public void display()
+	{
+		
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+}

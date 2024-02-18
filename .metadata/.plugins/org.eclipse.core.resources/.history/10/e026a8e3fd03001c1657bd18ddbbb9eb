@@ -1,0 +1,10 @@
+
+public class MainClass{
+	public static void main(String[] args)
+	{
+		CallPad c1;
+		c1 = new Student();
+		c1.call();
+		c1.message();
+	}
+}

@@ -1,0 +1,15 @@
+
+	public class Student extends Practice {
+
+	    int x=200;
+	    void display(){
+	        System.out.println(super.x);
+	        System.out.println(x);
+	    }
+
+
+
+	    }
+
+	
+	

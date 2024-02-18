@@ -1,0 +1,26 @@
+public class Student extends Practice {
+
+	  
+	
+	
+	
+    String degree;
+    Student(String n,int a,String d){
+    	super(n,a);
+    	degree=d;
+    }
+    void display() {
+    	super.display();
+    	System.out.println("Degree:"+degree);
+    }
+
+
+
+	    
+	    
+	    
+	    
+	  
+	    
+	    
+	    }

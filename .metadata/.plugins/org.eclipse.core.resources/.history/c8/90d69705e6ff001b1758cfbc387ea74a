@@ -1,0 +1,6 @@
+public class Practice{
+	void display()
+	{
+		System.out.println("Name: ");
+	}
+}

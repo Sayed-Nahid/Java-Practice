@@ -1,0 +1,7 @@
+public class Practice extends CallPad
+{
+	void method1()
+	{
+		System.out.println("Method 2");
+	}
+}

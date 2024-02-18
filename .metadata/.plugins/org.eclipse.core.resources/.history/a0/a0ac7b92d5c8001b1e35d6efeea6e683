@@ -1,0 +1,9 @@
+package fr;
+public class hl
+{
+	public static void main(String[] args)
+	{
+		Student student1 = new Student("Sayed Nahid", 202153849, "PC-B", 2020, "Daffodil International University");
+		student1.fucking();
+	}
+}

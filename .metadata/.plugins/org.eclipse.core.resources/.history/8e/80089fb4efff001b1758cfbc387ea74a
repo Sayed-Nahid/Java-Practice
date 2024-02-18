@@ -1,0 +1,18 @@
+
+public class Student {
+
+	
+	
+	void display1() {
+		System.out.println("Method 1");	
+	}
+
+	void display2() {
+		this.display1();
+		System.out.println("Method 2");
+	}
+
+	
+	
+	
+}

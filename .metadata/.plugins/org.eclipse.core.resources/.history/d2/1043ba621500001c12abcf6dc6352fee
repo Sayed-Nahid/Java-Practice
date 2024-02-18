@@ -1,0 +1,20 @@
+
+	public class Student extends Practice {
+
+	    void display() {
+	        super.display();
+	        System.out.println("This is Human class");
+	    }
+
+
+
+
+	    
+	    
+	    
+	    
+	    
+	    }
+
+	
+	

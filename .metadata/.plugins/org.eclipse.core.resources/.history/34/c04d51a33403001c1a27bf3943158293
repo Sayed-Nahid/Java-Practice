@@ -1,0 +1,8 @@
+public class Student{
+	String name, section;
+	int roll;
+	void setInfo()
+	{
+		
+	}
+}

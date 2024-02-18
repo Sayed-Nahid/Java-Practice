@@ -1,0 +1,23 @@
+public class Practice {
+   
+	
+	
+	
+	Practice(int a, int b) {
+        System.out.println(a + b);
+    }
+
+	Practice(int a, int b, int c) {
+        System.out.println(a + b + c);
+    }
+
+	Practice() {
+        System.out.println("No Information");
+    }
+
+
+
+
+
+
+}

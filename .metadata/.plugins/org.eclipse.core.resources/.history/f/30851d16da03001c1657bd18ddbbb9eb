@@ -1,0 +1,9 @@
+
+public class MainClass{
+	public static void main(String[] args)
+	{
+		Call c1;
+		c1 = new Ab();
+		c1.call();
+	}
+}

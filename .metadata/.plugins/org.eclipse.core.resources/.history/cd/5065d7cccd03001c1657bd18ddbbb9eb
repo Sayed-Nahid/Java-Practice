@@ -1,0 +1,21 @@
+import java.util.*;
+public class MainClass{
+	public static void main(String[] args)
+	{
+		
+		Scanner sc = new Scanner(System.in);
+		/*System.out.print("Enter the value ");
+		int x = sc.nextInt();
+		System.out.println("The value is: "+x);*/
+		System.out.print("Give the character here: ");
+		char ch = sc.next().charAt(2);
+		ch = Character.toUpperCase(ch);
+		System.out.println("Here is The Character: "+ch);
+		/*Student s1 = new Student();
+		s1.fuck(); 
+		System.out.println(""+s1.name);
+		System.out.println(""+s1.roll);
+		System.out.println(""+s1.section);
+		System.out.println(""+Student.university_name);*/
+	}
+}

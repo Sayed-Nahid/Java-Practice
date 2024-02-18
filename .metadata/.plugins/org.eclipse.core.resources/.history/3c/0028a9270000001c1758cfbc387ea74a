@@ -1,0 +1,15 @@
+class TestClass
+
+{
+
+   public static void main(String args[])
+
+   {
+
+       P2 ob = new P2();
+
+       ob.method1();
+
+   }
+
+}

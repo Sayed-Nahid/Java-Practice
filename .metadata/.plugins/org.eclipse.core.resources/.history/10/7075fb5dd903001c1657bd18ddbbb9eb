@@ -1,0 +1,8 @@
+public class Ab
+{
+	int x = 69;
+	void fuck()
+	{
+		System.out.println("Fuck You");
+	}
+}

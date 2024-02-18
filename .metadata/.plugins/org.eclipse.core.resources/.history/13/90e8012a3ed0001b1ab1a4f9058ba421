@@ -1,0 +1,32 @@
+
+public class Static {
+	String name;
+	int id;
+	int x = 5;
+	static String versity_name = "Daffodil International University";
+	Static(String n, int x)
+	{
+		name = n;
+		id = x;
+	}
+	
+	
+	
+	void displayInfo()
+	{
+		System.out.println("Name: "+name);
+		System.out.println("ID Number: "+id);
+		System.out.println("University Name: "+versity_name);
+
+	}
+	
+	
+	static void sir()
+	{
+		System.out.println("This is a Static Function or Method");
+	}
+	void kire()
+	{
+		System.out.println("---------->    -----------> Bra**********");
+	}
+}

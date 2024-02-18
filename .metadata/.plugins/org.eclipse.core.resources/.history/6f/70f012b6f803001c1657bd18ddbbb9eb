@@ -1,0 +1,6 @@
+public class Student extends Call{
+	void call()
+	{
+	 System.out.println("Calling Student...");	
+	}
+}

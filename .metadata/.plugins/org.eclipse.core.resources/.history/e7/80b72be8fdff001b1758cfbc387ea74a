@@ -1,0 +1,22 @@
+class P2 implements P3, P4
+
+{
+
+    void method1()
+
+    {
+
+        System.out.println("P2");
+
+    }
+    
+    
+    void method1()
+
+    {
+
+        System.out.println("P1");
+
+    }
+
+}

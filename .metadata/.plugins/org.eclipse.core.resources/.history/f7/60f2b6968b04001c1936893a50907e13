@@ -1,0 +1,11 @@
+
+public class B extends A{
+void call()
+{
+	System.out.println("Calling...");
+}
+void dial()
+{
+	System.out.println("Dialing...");
+}
+}

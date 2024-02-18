@@ -1,0 +1,17 @@
+
+public class Main implements M, Full{
+
+	public void display()
+	{
+		System.out.println("From A class");
+	}
+	public void display()
+	{
+		System.out.println("From A class");
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+}
